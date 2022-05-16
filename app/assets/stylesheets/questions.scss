@@ -1,0 +1,24 @@
+
+$yellow: #ffffe4;
+$grey: #d9d8d8;
+
+.question {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-left: 5px solid $grey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.answer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: $yellow;
+  border-left: 5px solid $grey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
